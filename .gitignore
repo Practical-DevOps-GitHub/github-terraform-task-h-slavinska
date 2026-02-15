@@ -5,6 +5,8 @@
 # state files
 *.tfstate
 *.tfstate.*
+*.tf
+TERRAFORM_SECRET
 
 # crash logs
 crash.log
